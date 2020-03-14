@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20070" started-at="2020-03-07T10:26:55Z" finished-at="2020-03-07T10:27:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20070" started-at="2020-03-07T10:26:55Z" finished-at="2020-03-07T10:27:15Z">
+      <class name="com.hrm.hrm.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:com.hrm.hrm.AppTest@55f3ddb1]" name="testApp" duration-ms="16" started-at="2020-03-07T15:56:55Z" finished-at="2020-03-07T15:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.hrm.hrm.AppTest -->
+      <class name="com.hrm.hrm.App">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.hrm.hrm.App@20e2cbe0]" name="login" duration-ms="20030" started-at="2020-03-07T15:56:55Z" finished-at="2020-03-07T15:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.hrm.hrm.App -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
